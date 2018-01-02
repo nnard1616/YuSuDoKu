@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/logical/Solver.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/puzzle/Puzzle.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/logical/checkers/CheckUniqueSolution.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/Main.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/puzzle/PossibilityCell.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/puzzle/Cell.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/gui/windows/MainPuzzleWindow.java</file>
+            <file>file:/home/nathan/NetBeansProjects/YuSuDoKu/src/yusudoku/logical/GeneratePuzzle.java</file>
+        </group>
+    </open-files>
+</project-private>
