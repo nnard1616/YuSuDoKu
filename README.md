@@ -1,6 +1,8 @@
 # YuSuDoKu
 A very basic Su Doku GUI with limited functionality.
 
+Developed in Netbeans 8.2
+
 Current Features:
   - Work on user supplied or computer supplied puzzles
     NOTE:  Computer supplied puzzles may take up to 5, or even 10 sec in 
