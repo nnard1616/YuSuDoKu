@@ -1,7 +1,7 @@
 # YuSuDoKu
 A very basic Su Doku GUI with limited functionality.
 
-Developed in Netbeans 8.2
+Developed in Netbeans 8.2, JDK 8
 
 Download JAR [here](https://github.com/nnard1616/YuSuDoKu/raw/master/dist/YuSuDoKu.jar).
 
