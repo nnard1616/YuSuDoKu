@@ -3,7 +3,7 @@ A very basic Su Doku GUI with limited functionality.
 
 Developed in Netbeans 8.2
 
-Download JAR [here](https://github.com/nnard1616/YuSuDoKu/blob/master/dist/YuSuDoKu.jar).
+Download JAR [here](https://github.com/nnard1616/YuSuDoKu/raw/master/dist/YuSuDoKu.jar).
 
 Current Features:
   - Work on user supplied or computer supplied puzzles
