@@ -1,5 +1,5 @@
 # YuSuDoKu
-A very basic Su Doku GUI with limited functionality.
+A very basic Sudoku GUI with limited functionality.
 
 Developed in Netbeans 8.2, JDK 8
 
