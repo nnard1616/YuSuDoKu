@@ -1,5 +1,5 @@
 # YuSuDoKu
-A very basic Sudoku GUI with limited functionality.
+A very basic Sudoku GUI with limited functionality.  Developed with knowledge obtained from University of Helsinki's OOP with Java MOOCs.  See [here](https://github.com/nnard1616/UoHelsinki--Java_Programming_MOOCs) for related projects and certificates.
 
 Developed in Netbeans 8.2, JDK 8
 
